@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='spys1proxy',
-    version='0.0.1',
+    version='0.0.2',
     description='Get proxy list from http://spys.one/free-proxy-list/',
     long_description_content_type="text/markdown",
     long_description=README,
@@ -14,8 +14,9 @@ setup_args = dict(
     author='Oleksii Ovdiienko',
     author_email='doubledare704@gmail.com',
     keywords=['Proxy', 'FreeProxy'],
-    url='https://github.com/ncthuc/elastictools',
-    download_url='https://pypi.org/project/elastictools/'
+    url='https://github.com/doubledare704/spys_one_proxy.git',
+    download_url='https://pypi.org/project/spys1proxy/0.0.2/',
+    python_requires='>=3.7'
 )
 
 install_requires = [

@@ -1,4 +1,6 @@
-./build
-./dist
-./spys1proxy.egg-info
 /.gitignore
+__pycache__/
+build/
+dist/
+spys1proxy.egg-info/
+.venv/

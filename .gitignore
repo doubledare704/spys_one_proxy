@@ -1,0 +1,4 @@
+./build
+./dist
+./spys1proxy.egg-info
+/.gitignore
